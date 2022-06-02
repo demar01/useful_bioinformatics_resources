@@ -1,0 +1,72 @@
+Gene Map Search - 'ALZHEIMER '
+Downloaded:	Jun 02, 2022
+Copyright (c) 1966-2022 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+Cytogenetic location	Genomic coordinates (From NCBI/GRCh38)	Gene/Locus	Gene/Locus name	Gene/Locus MIM number	Approved Symbol	Entrez Gene ID	Ensembl Gene ID	Comments	Phenotype	Phenotype MIM number	Inheritance	Pheno map key	Mouse Gene (from MGI)
+1p36	1:23600000-27600000	AD7CNTP	Alzheimer disease neuronal thread protein	607413								
+1q21	1:150600000-155100000	AD13	Alzheimer disease-13	611152		100188837		max lod D1S498	{Alzheimer disease-13}	611152		2	
+1q25	1:180300000-185800000	AD14	Alzheimer disease 14	611154		100188754		max lod at D1S218	{Alzheimer disease-14}	611154		2	
+1q42.13	1:226870615-226903667	PSEN2, AD4, STM2, CMD1V	Presenilin 2	600759	PSEN2	5664	ENSG00000143801,ENST00000366783.8		Alzheimer disease-4	606889	Autosomal dominant	3	Psen2
+1q42.13	1:226870615-226903667	PSEN2, AD4, STM2, CMD1V	Presenilin 2	600759	PSEN2	5664	ENSG00000143801,ENST00000366783.8		Cardiomyopathy, dilated, 1V	613697	Autosomal dominant	3	Psen2
+3q22-q24	3:136000000-149200000	AD15	Alzheimer disease 15	611155				max lod at D3S1579	{Alzheimer disease-15}	611155		2	
+6p22.2	6:26087428-26098342	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Homeostatic iron regulator	613609	HFE	3077	ENSG00000010704,ENST00000357618.10		Hemochromatosis	235200	Autosomal recessive	3	Hfe
+6p22.2	6:26087428-26098342	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Homeostatic iron regulator	613609	HFE	3077	ENSG00000010704,ENST00000357618.10		[Transferrin serum level QTL2]	614193		3	Hfe
+6p22.2	6:26087428-26098342	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Homeostatic iron regulator	613609	HFE	3077	ENSG00000010704,ENST00000357618.10		{Alzheimer disease, susceptibility to}	104300	Autosomal dominant	3	Hfe
+6p22.2	6:26087428-26098342	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Homeostatic iron regulator	613609	HFE	3077	ENSG00000010704,ENST00000357618.10		{Microvascular complications of diabetes 7}	612635		3	Hfe
+6p22.2	6:26087428-26098342	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Homeostatic iron regulator	613609	HFE	3077	ENSG00000010704,ENST00000357618.10		{Porphyria cutanea tarda, susceptibility to}	176100	Autosomal dominant; Autosomal recessive	3	Hfe
+6p22.2	6:26087428-26098342	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Homeostatic iron regulator	613609	HFE	3077	ENSG00000010704,ENST00000357618.10		{Porphyria variegata, susceptibility to}	176200	Autosomal dominant	3	Hfe
+6p21.2	6:36600000-40500000	AD17	Alzheimer disease 17	615080		101290498		associated with rs75932628T	Alzheimer disease 17	615080		2	
+7q36.1	7:150991016-151014587	NOS3	Nitric oxide synthase 3, endothelial cell	163729	NOS3	4846	ENSG00000164867,ENST00000297494.8		{Alzheimer disease, late-onset, susceptibility to}	104300	Autosomal dominant	3	Nos3
+7q36.1	7:150991016-151014587	NOS3	Nitric oxide synthase 3, endothelial cell	163729	NOS3	4846	ENSG00000164867,ENST00000297494.8		{Coronary artery spasm 1, susceptibility to}			3	Nos3
+7q36.1	7:150991016-151014587	NOS3	Nitric oxide synthase 3, endothelial cell	163729	NOS3	4846	ENSG00000164867,ENST00000297494.8		{Hypertension, pregnancy-induced}	189800	Autosomal dominant	3	Nos3
+7q36.1	7:150991016-151014587	NOS3	Nitric oxide synthase 3, endothelial cell	163729	NOS3	4846	ENSG00000164867,ENST00000297494.8		{Hypertension, susceptibility to}	145500	Multifactorial	3	Nos3
+7q36.1	7:150991016-151014587	NOS3	Nitric oxide synthase 3, endothelial cell	163729	NOS3	4846	ENSG00000164867,ENST00000297494.8		{Ischemic stroke, susceptibility to}	601367	Multifactorial	3	Nos3
+7q36.1	7:150991016-151014587	NOS3	Nitric oxide synthase 3, endothelial cell	163729	NOS3	4846	ENSG00000164867,ENST00000297494.8		{Placental abruption}			3	Nos3
+7q36	7:155200000-159345973	AD10	Alzheimer disease-10	609636		780912		max lod with D7S798	Alzheimer disease-10	609636	Autosomal dominant	2	
+8p12-q22	8:29000000-105100000	AD12	Alzheimer disease 12	611073		100188830		max lod at D8S1119	{Alzheimer disease 12}	611073		2	
+9p22.1	9:18500000-19900000	AD11	Alzheimer disease 11	609790		100188795		between D9S157 and D9S259	Alzheimer disease-11	609790		2	
+10p13	10:12200000-17300000	AD7	Alzheimer disease 7	606187		114475		max LOD at D10S1423	Alzheimer disease-7	606187		2	
+10q22.2	10:73909163-73917493	PLAU, URK, QPD, BDPLT5	Plasminogen activator, urokinase	191840	PLAU	5328	ENSG00000122861,ENST00000446342.5	proximal to HOX11	Quebec platelet disorder	601709	Autosomal dominant	3	Plau
+10q22.2	10:73909163-73917493	PLAU, URK, QPD, BDPLT5	Plasminogen activator, urokinase	191840	PLAU	5328	ENSG00000122861,ENST00000446342.5	proximal to HOX11	{Alzheimer disease, late-onset, susceptibility to}	104300	Autosomal dominant	3	Plau
+10q24	10:103100000-104000000	AD6	Alzheimer disease 6	605526		64851			Alzheimer disease 6	605526		2	
+10q24.33	10:103453239-103458899	CALHM1, FAM26C	Calcium homeostasis modulator 1	612234	CALHM1	255022	ENSG00000185933,ENST00000329905.6	?Alzheimer disease, 605526				Calhm1
+12p11.23-q13.12	12:26300000-51100000	AD5	Alzheimer disease, familial, type 5	602096		8081			Alzheimer disease-5	602096	Autosomal dominant	2	
+14q24.2	14:73136416-73223690	PSEN1, AD3, ACNINV3	Presenilin 1	104311	PSEN1	5663	ENSG00000080815,ENST00000324501.10	mutation identified in 1 ACNINV3 family	?Acne inversa, familial, 3	613737	Autosomal dominant	3	Psen1
+14q24.2	14:73136416-73223690	PSEN1, AD3, ACNINV3	Presenilin 1	104311	PSEN1	5663	ENSG00000080815,ENST00000324501.10	mutation identified in 1 ACNINV3 family	Alzheimer disease, type 3	607822	Autosomal dominant	3	Psen1
+14q24.2	14:73136416-73223690	PSEN1, AD3, ACNINV3	Presenilin 1	104311	PSEN1	5663	ENSG00000080815,ENST00000324501.10	mutation identified in 1 ACNINV3 family	Alzheimer disease, type 3, with spastic paraparesis and apraxia	607822	Autosomal dominant	3	Psen1
+14q24.2	14:73136416-73223690	PSEN1, AD3, ACNINV3	Presenilin 1	104311	PSEN1	5663	ENSG00000080815,ENST00000324501.10	mutation identified in 1 ACNINV3 family	Alzheimer disease, type 3, with spastic paraparesis and unusual plaques	607822	Autosomal dominant	3	Psen1
+14q24.2	14:73136416-73223690	PSEN1, AD3, ACNINV3	Presenilin 1	104311	PSEN1	5663	ENSG00000080815,ENST00000324501.10	mutation identified in 1 ACNINV3 family	Cardiomyopathy, dilated, 1U	613694	Autosomal dominant	3	Psen1
+14q24.2	14:73136416-73223690	PSEN1, AD3, ACNINV3	Presenilin 1	104311	PSEN1	5663	ENSG00000080815,ENST00000324501.10	mutation identified in 1 ACNINV3 family	Dementia, frontotemporal	600274	Autosomal dominant	3	Psen1
+14q24.2	14:73136416-73223690	PSEN1, AD3, ACNINV3	Presenilin 1	104311	PSEN1	5663	ENSG00000080815,ENST00000324501.10	mutation identified in 1 ACNINV3 family	Pick disease	172700	Autosomal dominant	3	Psen1
+15q21.3	15:58588808-58749706	ADAM10, MADM, RAK, AD18	ADAM metallopeptidase domain 10	602192	ADAM10	102	ENSG00000137845,ENST00000260408.8		Reticulate acropigmentation of Kitamura	615537	Autosomal dominant	3	Adam10
+15q21.3	15:58588808-58749706	ADAM10, MADM, RAK, AD18	ADAM metallopeptidase domain 10	602192	ADAM10	102	ENSG00000137845,ENST00000260408.8		{Alzheimer disease 18, susceptibility to}	615590		3	Adam10
+17q22	17:58269854-58280934	MPO	Myeloperoxidase	606989	MPO	4353	ENSG00000005381,ENST00000225275.4	translocated in t(15;17)(q22;q11.2)	Myeloperoxidase deficiency	254600	Autosomal recessive	3	Mpo
+17q22	17:58269854-58280934	MPO	Myeloperoxidase	606989	MPO	4353	ENSG00000005381,ENST00000225275.4	translocated in t(15;17)(q22;q11.2)	{Alzheimer disease, susceptibility to}	104300	Autosomal dominant	3	Mpo
+17q22	17:58269854-58280934	MPO	Myeloperoxidase	606989	MPO	4353	ENSG00000005381,ENST00000225275.4	translocated in t(15;17)(q22;q11.2)	{Lung cancer, protection against, in smokers}			3	Mpo
+19p13.3	19:1040106-1065571	ABCA7, ABCX, AD9	ATP-binding cassette, subfamily A, member 7	605414	ABCA7	10347	ENSG00000064687,ENST00000263094.11		{Alzheimer disease 9, susceptibility to}	608907	Autosomal dominant	3	Abca7
+19q13.32	19:44905795-44909392	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	APOE	348	ENSG00000130203,ENST00000252486.9	mutation identified in 1 APOE3-Christchurch patient	Alzheimer disease 2	104310	Autosomal dominant	3	Apoe
+19q13.32	19:44905795-44909392	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	APOE	348	ENSG00000130203,ENST00000252486.9	mutation identified in 1 APOE3-Christchurch patient	Hyperlipoproteinemia, type III	617347		3	Apoe
+19q13.32	19:44905795-44909392	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	APOE	348	ENSG00000130203,ENST00000252486.9	mutation identified in 1 APOE3-Christchurch patient	Lipoprotein glomerulopathy	611771		3	Apoe
+19q13.32	19:44905795-44909392	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	APOE	348	ENSG00000130203,ENST00000252486.9	mutation identified in 1 APOE3-Christchurch patient	Sea-blue histiocyte disease	269600	Autosomal recessive	3	Apoe
+19q13.32	19:44905795-44909392	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	APOE	348	ENSG00000130203,ENST00000252486.9	mutation identified in 1 APOE3-Christchurch patient	{?Alzheimer disease, protection against, due to APOE3-Christchurch}	607822	Autosomal dominant	3	Apoe
+19q13.32	19:44905795-44909392	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	APOE	348	ENSG00000130203,ENST00000252486.9	mutation identified in 1 APOE3-Christchurch patient	{?Macular degeneration, age-related}	603075	Autosomal dominant	3	Apoe
+19q13.32	19:44905795-44909392	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	APOE	348	ENSG00000130203,ENST00000252486.9	mutation identified in 1 APOE3-Christchurch patient	{Coronary artery disease, severe, susceptibility to}	617347		3	Apoe
+20p		AD8	Alzheimer disease 8	607116		353128		?related to CST3	Alzheimer disease 8	607116		2	
+21q21.3	21:25880549-26171127	APP, AAA, CVAP, AD1	Amyloid beta (A4) precursor protein	104760	APP	351	ENSG00000142192,ENST00000346798.8	proximal to SOD; very distal q21 or boundary with q22	Alzheimer disease 1, familial	104300	Autosomal dominant	3	App
+21q21.3	21:25880549-26171127	APP, AAA, CVAP, AD1	Amyloid beta (A4) precursor protein	104760	APP	351	ENSG00000142192,ENST00000346798.8	proximal to SOD; very distal q21 or boundary with q22	Cerebral amyloid angiopathy, Dutch, Italian, Iowa, Flemish, Arctic variants	605714	Autosomal dominant	3	App
+Xq21.3	X:94300000-99100000	AD16	Alzheimer disease 16	300756		100271718		associated with rs5984894	{Alzheimer disease 16}	300756		2	
+
+
+
+Phenotype Mapping Key
+1 - The disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - The disorder was placed on the map by statistical methods.
+3 - The molecular basis of the disorder is known.
+4 - A contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+
+
+
+
+
